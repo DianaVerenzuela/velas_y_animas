@@ -1908,7 +1908,7 @@ div.tab_contents_active {
 	width:100%;
 	float:left;
 	text-align:left;
-	border-bottom:1px solid #e14ad8;
+	border-bottom:1px solid #be5bb8;
 }
 
 .blogtitle h3{
@@ -1917,7 +1917,7 @@ div.tab_contents_active {
 
 .blogtitle h3 a, .blogtitle h3 a:visited{
 	font-size:16pt;
-	color: #e14ad8;
+	color: #be5bb8;
 	text-decoration:none;
 }
 
