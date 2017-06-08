@@ -10,8 +10,8 @@ body{
 h1, h2, h3, h4, h5, h6{
 	font-family: 'BebasNeueRegular',Arial, Helvetica, sans-serif;
 	padding:0px;
-	margin:0px;
-	color: #cbcaca;
+	margin:5px;
+	color: #699e60;
 }
 
 h1,h2{
@@ -930,7 +930,7 @@ hr{
 	width:94%;
 	padding:3%;
 	float:left;
-	background-color:#cbcbcb;
+	background-color:#da803f;
 	position:relative;
 	margin-top:20px;
 	text-shadow: 1px 1px 1px #a9a8a8;
@@ -1851,7 +1851,7 @@ div.tab_contents_active {
 	width:99.5%;
 	float:left;
 	position:relative;
-	background-color:white;
+	background-color:#da803f;
 	height:auto;
 	border:1px solid #d5d5d5;
 }
@@ -1870,7 +1870,7 @@ div.tab_contents_active {
 	width:100%;
 	float:left;
 	text-align:left;
-	border-bottom:1px solid #d5d5d5;
+	border-bottom:1px solid #699e60;
 }
 
 .widgettitle h4{
@@ -1908,7 +1908,7 @@ div.tab_contents_active {
 	width:100%;
 	float:left;
 	text-align:left;
-	border-bottom:1px solid #d5d5d5;
+	border-bottom:1px solid #e14ad8;
 }
 
 .blogtitle h3{
@@ -1917,7 +1917,7 @@ div.tab_contents_active {
 
 .blogtitle h3 a, .blogtitle h3 a:visited{
 	font-size:16pt;
-	color: #cbcaca;
+	color: #e14ad8;
 	text-decoration:none;
 }
 
